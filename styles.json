@@ -3395,8 +3395,8 @@
     "+instructure.com.css": [
       "classroom.ucscout.org"
     ],
-    "notion.so": [
-      "app.notion.com"
+    "-google.com.css": [
+      "google.com.ar"
     ]
   }
 }
